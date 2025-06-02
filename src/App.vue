@@ -6,9 +6,7 @@
   </div>
 </template>
 
-<script setup>
-// Nenhuma importação direta necessária
-</script>
+<script setup></script>
 
 <style scoped>
 #app {
@@ -19,7 +17,7 @@
 
 <style>
 body {
-  background-color: #f8f9fa; /* fundo cinza claro */
+  background-color: #f8f9fa;
   margin: 0;
 }
 </style>

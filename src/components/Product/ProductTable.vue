@@ -7,8 +7,6 @@
             Nome
             <span v-if="sortOrder === 'asc'">▲</span>
             <span v-else-if="sortOrder === 'desc'">▼</span>
-            <span v-else>⇅</span>
-            <!-- seta neutra -->
           </th>
           <th class="col-categoria">Categoria</th>
           <th class="col-preco">Preço ($)</th>
